@@ -8,7 +8,7 @@ import ar.edu.unju.fi.aplicacion.Factorial;
 public class PrincipalPunto1 {
 
 	public static void main(String[] args) {
-		
+		//hi
 		Scanner leer = new Scanner(System.in);
 		boolean band=true;
 		int numero=0;
